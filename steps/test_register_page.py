@@ -1,5 +1,4 @@
 from behave import *
-
 from pages.RegisterPage import RegisterPage
 
 
